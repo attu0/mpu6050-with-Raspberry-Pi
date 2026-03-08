@@ -2,6 +2,11 @@
 
 Accessing MPU-6050 on Raspberry Pi using Python to get temperature, accelerometer and gyroscope data.
 
+## Circuit Diagram
+
+<img width="500" height="500" alt="circuit_image" src="https://github.com/user-attachments/assets/6eee4396-a827-482d-b850-16146a694213" />
+
+
 ## Dependencies
 
 ```
